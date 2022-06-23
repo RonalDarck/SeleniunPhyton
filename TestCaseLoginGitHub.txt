@@ -1,0 +1,13 @@
+Verificar el Inicio de sesion de un usuario ya registrado en GitHub
+Pre Requisitos:
+- Contar con conexion a internet
+- Contar con un navegador abierto con el siguiente enlace cargado:"https://github.com/login"
+Pasos:
+- Ingresar un nombre de usuario o un correo electronico ya registrado anteriormente(de preferencia un correo electronico) en el campo: "Username or email address" o "Nombre de usuario o dirección de correo electrónico". Ejemplo: "Eliot.Aldersson05.09@gmail.com"
+- Ingresar la contraseña correspondiente al correo electronico o nombre de usuario de github en la seccion:"Password" o "Clave". Ejemplo: "Fsociety0509"
+- Hacer click en el boton: "Sign in" o " Iniciar sesión"
+Resultado Esperado:
+Se carga la pagina principal de la cuenta de github con el mensaje: "The home for all developers — including you." o "El hogar para todos los desarrolladores, incluido usted."
+Resultado Obtenido:
+Se carga la pagina principal con el mensaje: "The home for all developers — including you." o al traducir la pagina: "El hogar para todos los desarrolladores, incluido usted."
+
