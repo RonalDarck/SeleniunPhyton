@@ -1,0 +1,49 @@
+Automatizacion de Github esctrita en Python
+
+
+Instalacion:
+pasos:
+
+1.-instalar pyton en la ultima version  https://www.python.org/) link de descarga
+https://www.python.org/downloads/
+
+2.una ves instalado  
+preciona win + r
+ingresa el comando: pip install selenium
+
+3.Una vez instalado pip, descargue el archivo "web.py" (Guardelo en una carpeta separada)
+
+4.En la carpeta que contiene el archivo "web.py" abra una terminal (Consola de comandos)
+
+5.Ejecute el comando "pip install -U selenium"
+
+6.Una vez Terminada la instalacion de selenium (Culminacion de ejecucion del anterior comando), Ejecute el siguiente comando Ahora: "pip install pandas"
+
+7.Una vez terminada la instalacion de pandas (Culminacion de ejecucion del anterior comando), abra su navegador google Chrome
+
+8.Dirijase a la parte superior derecha y localice la opcion de "Mas" (tambien puede ser 3 puntos colocados de manera vertical) haga click alli
+
+9.En el menu que surge haga click en "Ayuda"
+
+10.Surgira un nuevo menmu de sub-opciones, elija: Informacion de Google Chrome
+11.Se le mostrara la version de su Google Chrome.
+12.Dirijase al sitio web:"https://chromedriver.chromium.org/downloads"
+
+13.Busque entre las opciones de la pagina una version que se adapte a su version y haga click en el enlace correspondiente.(considere los 3 primeros numeros de su version instalada para una busqueda rapida en la pagina)
+
+14.Una vez descargado el archivo, este sera un zip, utilizando una herramienta de descompresion, descomprima el archivo.zip
+
+15.Dependiendo de la herramienta que use para descomprimir el archivo, se le puede generar una carpeta con el mismo nombre del archivo zip, ingrese a la carpeta(de no ser asi, ignore este paso)
+
+16.El archivo en cuestion tiene por nombre:"chromedriver", copie la ruta (directorio) de donde se encuentra el archivo "chromedriver"
+
+17.Donde haya descargado el archivo "web.py" abra el archivo "web.py"(no lo ejecute, utilice un editor de archivos, Ejemplo: Visual Studio Code)
+
+18.En la linea: "driver_path = " (sin borrar los parentesis y las comillas simplres a continuacion) elimine la ruta incluida al momento de descargar, y pegue el directorio (ruta) de su chromedriver.
+
+19.Abra una linea (Consola) de comandos (Donde se encuentre el archivo "web.py") y ejecute el comando: "python web.py"
+
+
+
+
+
